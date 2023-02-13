@@ -8,13 +8,14 @@
 #include <iostream>
 #include "externvar.h"
 #include <fstream>
-// TO-DO Add frame to config
 #pragma warning(disable : 4996)
+
+
+// cheat vars
 bool BrowserOpen = false;
 std::string SelectedFile;
 const char* ConData = "NULL";
 
-// cheat vars
 const char* InfoText = "8==D MIU Menu, By Addison Sawyer C==8";
 const char* InfoText6 = "::Pointers::";
 const char* InfoText7 = "Module Base Address -> mono-2.0-bdwgc.dll";
