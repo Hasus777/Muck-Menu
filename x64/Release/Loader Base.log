@@ -1,0 +1,29 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (External Menu Base.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  memory.cpp
+  functions.cpp
+C:\Users\Hasus\Desktop\Menu remake part 1\functions.cpp(14,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Hasus\Desktop\Menu remake part 1\functions.cpp(31,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hasus\Desktop\Menu remake part 1\functions.cpp(31,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hasus\Desktop\Menu remake part 1\functions.cpp(37,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  imguipp.cpp
+C:\Users\Hasus\Desktop\Menu remake part 1\imguipp.cpp(98,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hasus\Desktop\Menu remake part 1\imguipp.cpp(98,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hasus\Desktop\Menu remake part 1\imguipp.cpp(98,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hasus\Desktop\Menu remake part 1\imguipp.cpp(98,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  Loader.cpp
+C:\Users\Hasus\Desktop\Menu remake part 1\Loader.cpp(47,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hasus\Desktop\Menu remake part 1\Loader.cpp(48,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  menu.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Hasus\Desktop\Menu remake part 1\Loader.cpp(122): warning C4715: 'WinMain': not all control paths return a value
+C:\Users\Hasus\Desktop\Menu remake part 1\menu.cpp(252): warning C4715: 'FileBrowse': not all control paths return a value
+  All 2820 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Loader Base.vcxproj -> C:\Users\Hasus\Desktop\Menu remake part 1\x64\Release\MIU Menu.exe
